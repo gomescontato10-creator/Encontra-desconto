@@ -1,0 +1,6 @@
+{
+  "name": "Desconto Finder",
+  "description": "App to find cheaper alternatives to a product by image or text search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
